@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bo Liu, Ph.D. Candidate"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor, Undergraduate course"
 permalink: teaching/econ_305_summer_2023_a01.pdf
 venue: "University of Victoria, Department of Economics"
-date: Summer, 2023
+date: 2023 Summer
 location: "Victoria, BC, Canada"
 ---
 This course is an introduction to banking and finance with attention to the fascinating topic of central 

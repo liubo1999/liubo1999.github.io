@@ -11,3 +11,12 @@ This course is an introduction to banking and finance with attention to the fasc
 banking as well. Broadly speaking the aim is to further your understanding of the roles of financial 
 assets, institutions, and markets and how they affect people, companies and the economy as a whole. We 
 will pay special attention to Canadian institutions.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

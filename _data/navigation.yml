@@ -9,14 +9,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: https://github.com/liubo1999/liubo1999.github.io/blob/master/assets/CV.pdf
     
-  - title: "Guide"
-    url: /markdown/

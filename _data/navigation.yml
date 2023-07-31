@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /assets/CV.pdf
+    url: https://github.com/liubo1999/liubo1999.github.io/blob/master/assets/CV.pdf
     
   - title: "Guide"
     url: /markdown/

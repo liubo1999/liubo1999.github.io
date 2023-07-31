@@ -2,7 +2,7 @@
 title: "Econ 305: Money and Banking"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Summer2023.pdf
+permalink: /teaching/econ_305_summer_2023_a01.pdf
 venue: "University of Victoria, Department of Economics"
 date: 2023-05-15
 location: "Victoria, BC, Canada"
